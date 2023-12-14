@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 function HamburgerButton({ isOpen, onTapChange }) {
   return (
     <label className="btn btn-circle swap swap-rotate bg-transparent border-none sm:hidden">
