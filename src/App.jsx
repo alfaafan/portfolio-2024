@@ -1,10 +1,10 @@
 import "./App.css";
+import Hero from "./components/Hero/Hero";
 
 function App() {
   return (
     <>
-      <h1 className="text-7xl">Alfaafan Yusufa Achmad</h1>
-      <button className="btn">Click me</button>
+      <Hero />
     </>
   );
 }

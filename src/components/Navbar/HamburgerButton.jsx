@@ -1,6 +1,6 @@
 function HamburgerButton({ isOpen, onTapChange }) {
   return (
-    <label className="btn btn-circle swap swap-rotate bg-transparent border-none">
+    <label className="btn btn-circle swap swap-rotate bg-transparent border-none sm:hidden">
       {/* this hidden checkbox controls the state */}
       <input type="checkbox" open={isOpen} onChange={onTapChange} />
 

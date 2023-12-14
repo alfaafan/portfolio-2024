@@ -10,7 +10,7 @@ function Navbar() {
   };
 
   return (
-    <nav className="bg-base-100">
+    <nav className="bg-base-100 sticky top-0">
       <div className="navbar border-red-100">
         <div className="flex-1">
           <a className="btn btn-ghost text-xl">Alfaafan</a>
