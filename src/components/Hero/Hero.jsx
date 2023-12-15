@@ -1,3 +1,6 @@
+import { IoPersonCircleOutline } from "react-icons/io5";
+import { FaCloudDownloadAlt } from "react-icons/fa";
+
 function Hero() {
   return (
     <header id="hero" className="rounded-md grid sm:flex justify-center place-items-center items-center h-screen w-screen px-5">
@@ -13,9 +16,11 @@ function Hero() {
           <h3 className="md:text-3xl text-lg font-thin mb-3">Software Engineer | Web Developer</h3>
           <div className="mt-5">
             <button className="btn text-lg me-3">
+              <FaCloudDownloadAlt />
               <a href="https://www.linkedin.com/in/alfaafan-yusufa-achmad-712953174/">View resume</a>
             </button>
             <button className="btn btn-ghost text-lg">
+              <IoPersonCircleOutline />
               <a href="#profile">About me</a>
             </button>
           </div>
