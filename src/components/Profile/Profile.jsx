@@ -5,7 +5,7 @@ function Profile() {
     <section id="profile" className="min-h-screen w-screen p-5 lg:px-48 lg:py-10">
       <h1 className="font-bold text-3xl lg:text-5xl uppercase text-center mt-5 mb-5 lg:mb-10">About me</h1>
       <div className="about-wrapper lg:flex lg:align-center">
-        <img src="/src/assets/hello.svg" alt="Hello" className="max-sm:my-10 mt-5 me-5" width="400px" />
+        <img src="/hello.svg" alt="Hello" className="max-sm:my-10 mt-5 me-5" width="400px" />
         <div className="about-content">
           <p className="font-extralight mb-3">
             Passionate and results-driven, Enthusiastic and detail-oriented Software Engineer with a passion for solving complex problems through innovative and efficient coding practices. A quick learner with a demonstrated ability to
