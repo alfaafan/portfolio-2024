@@ -12,7 +12,7 @@ export const languages = [
 export const frontend = [
   {
     title: "HTML",
-    img: "/src/assets/html.svg",
+    img: "/html.svg",
   },
   {
     title: "CSS",
