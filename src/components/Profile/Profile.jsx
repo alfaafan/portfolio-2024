@@ -32,10 +32,14 @@ function Profile() {
             <div className="call-to-action mt-10">
               <button className="btn me-3">
                 <SiGmail />
-                <a href="mailto:yusufa0509@gmail.com">Let&apos;s talk</a>
+                <a href="mailto:yusufa0509@gmail.com" target="_blank" rel="noreferrer">
+                  Let&apos;s talk
+                </a>
               </button>
               <button className="btn btn-ghost">
-                <a href="https://www.linkedin.com/in/alfaafan-yusufa-achmad-712953174/">Learn more</a>
+                <a href="https://www.linkedin.com/in/alfaafan-yusufa-achmad-712953174/" target="_blank" rel="noreferrer">
+                  Learn more
+                </a>
               </button>
             </div>
           </div>

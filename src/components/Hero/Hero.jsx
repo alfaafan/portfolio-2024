@@ -17,7 +17,9 @@ function Hero() {
           <div className="mt-5">
             <button className="btn text-lg me-3">
               <FaCloudDownloadAlt />
-              <a href="https://www.linkedin.com/in/alfaafan-yusufa-achmad-712953174/">View resume</a>
+              <a href="https://drive.google.com/file/d/1S0809n-n1Lg1wepQaDxyRQEpfjdIFGcL/view?usp=sharing" target="_blank" rel="noreferrer">
+                View resume
+              </a>
             </button>
             <button className="btn btn-ghost text-lg">
               <IoPersonCircleOutline />

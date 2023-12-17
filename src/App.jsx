@@ -6,7 +6,7 @@ import Works from "./components/Works/Works";
 
 function App() {
   useEffect(() => {
-    const links = document.querySelectorAll("a");
+    const links = document.querySelectorAll("a[id]");
 
     links.forEach((link) => {
       link.addEventListener("click", function (e) {
