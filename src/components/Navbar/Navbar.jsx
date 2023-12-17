@@ -20,7 +20,7 @@ function Navbar() {
           </a>
         </div>
         <div className="flex-none sm:me-24">
-          <ul className="menu menu-horizontal px-1 hidden sm:flex font-bold tracking-wider">
+          <ul className="menu menu-horizontal px-1 hidden sm:flex font-semibold tracking-wider">
             <li>
               <a href="#profile">Profile</a>
             </li>

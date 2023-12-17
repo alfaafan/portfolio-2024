@@ -18,13 +18,13 @@ function Footer() {
       <nav>
         <header className="footer-title">Social</header>
         <div className="grid grid-flow-col gap-4">
-          <a href="https://github.com/alfaafan">
+          <a className="hover:text-white" href="https://github.com/alfaafan">
             <VscGithubInverted style={{ fontSize: "x-large" }} />
           </a>
-          <a href="https://twitter.com/alfaafan_">
+          <a className="hover:text-white" href="https://twitter.com/alfaafan_">
             <VscTwitter style={{ fontSize: "x-large" }} />
           </a>
-          <a href="https://www.linkedin.com/in/alfaafan/">
+          <a className="hover:text-white" href="https://www.linkedin.com/in/alfaafan/">
             <RxLinkedinLogo style={{ fontSize: "x-large" }} />
           </a>
         </div>
