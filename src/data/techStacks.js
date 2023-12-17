@@ -12,63 +12,63 @@ export const languages = [
 export const frontend = [
   {
     title: "HTML",
-    img: "src/assets/html.svg",
+    img: "/src/assets/html.svg",
   },
   {
     title: "CSS",
-    img: "src/assets/css.svg",
+    img: "/src/assets/css.svg",
   },
   {
     title: "react",
-    img: "src/assets/react.svg",
+    img: "/src/assets/react.svg",
   },
   {
     title: "vite",
-    img: "src/assets/vite.svg",
+    img: "/src/assets/vite.svg",
   },
   {
     title: "tailwind",
-    img: "src/assets/tailwind.svg",
+    img: "/src/assets/tailwind.svg",
   },
   {
     title: "bootstrap",
-    img: "src/assets/bootstrap.svg",
+    img: "/src/assets/bootstrap.svg",
   },
 ];
 
 export const backend = [
   {
     title: "node.js",
-    img: "src/assets/node.svg",
+    img: "/src/assets/node.svg",
   },
   {
     title: "express.js",
-    img: "src/assets/express.svg",
+    img: "/src/assets/express.svg",
   },
   {
     title: "ASP.NET",
-    img: "src/assets/dotnet.svg",
+    img: "/src/assets/dotnet.svg",
   },
 ];
 
 export const databases = [
   {
     title: "postgreSQL",
-    img: "src/assets/postgresql.svg",
+    img: "/src/assets/postgresql.svg",
   },
   {
     title: "mongoDB",
-    img: "src/assets/mongodb.svg",
+    img: "/src/assets/mongodb.svg",
   },
 ];
 
 export const others = [
   {
     title: "docker",
-    img: "src/assets/docker.svg",
+    img: "/src/assets/docker.svg",
   },
   {
     title: "GIT",
-    img: "src/assets/git.svg",
+    img: "/src/assets/git.svg",
   },
 ];
