@@ -11,11 +11,11 @@ export const languages = [
 
 export const frontend = [
   {
-    title: "html",
+    title: "HTML",
     img: "src/assets/html.svg",
   },
   {
-    title: "css",
+    title: "CSS",
     img: "src/assets/css.svg",
   },
   {
@@ -46,18 +46,18 @@ export const backend = [
     img: "src/assets/express.svg",
   },
   {
-    title: "asp.net",
+    title: "ASP.NET",
     img: "src/assets/dotnet.svg",
   },
 ];
 
 export const databases = [
   {
-    title: "postgresql",
+    title: "postgreSQL",
     img: "src/assets/postgresql.svg",
   },
   {
-    title: "mongodb",
+    title: "mongoDB",
     img: "src/assets/mongodb.svg",
   },
 ];
@@ -68,7 +68,7 @@ export const others = [
     img: "src/assets/docker.svg",
   },
   {
-    title: "git",
+    title: "GIT",
     img: "src/assets/git.svg",
   },
 ];
